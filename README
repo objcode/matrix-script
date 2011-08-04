@@ -1,4 +1,0 @@
-
-echo -e "hello\nworld" | matrix
-
-yes | matrix
